@@ -6,15 +6,14 @@
 ![GitHub forks](https://img.shields.io/github/forks/UmbrellaSkiies/YT2MP3?style=social)
 ![GitHub followers](https://img.shields.io/github/followers/UmbrellaSkiies?label=Followers&logoColor=blue&style=flat)
 
-Convert video files to highest quality MP3 or download as MP4 in a single click, and get the video details.
+Convert video files to the highest quality MP3 or download as MP4 in a single click, and get the video details.
+
 
 ## Contents
-- [YT2MP3](#yt2mp3)
-  - [Contents](#contents)
   - [Prerequisites](#prerequisites)
-  - [Prerequisites2.0](#prerequisites20)
   - [Installation](#installation)
   - [Usage](#usage)
+  - [Languages and Tools Used:](#languages-and-tools-used)
   - [Contributing](#contributing)
   - [License](#license)
   - [Contact](#contact)
@@ -27,15 +26,6 @@ Before you begin, ensure you have met the following requirements:
 * [Python](https://python.org) Make sure Python is installed on your operating system.
 * [FFmpeg](https://ffmpeg.org) FFmpeg is a powerful multimedia framework that can be used to decode, encode, transcode, mux, demux, stream, filter, and play almost any type of audio or video file.
 
-## Prerequisites2.0
-Before you begin, ensure you have met the following requirements:
-
-1. **Python:** Python must be installed on your operating system. You can download it from [python.org](https://www.python.org/downloads/).
-
-2. **Git:** Git should be installed on your system. You can download it from [git-scm.com](https://git-scm.com/downloads).
-
-3. **FFmpeg:** Since your project involves video conversion, you'll need FFmpeg. FFmpeg is a powerful multimedia framework that can be used to decode, encode, transcode, mux, demux, stream, filter, and play almost any type of audio or video file. You can download it from [ffmpeg.org](https://ffmpeg.org/download.html).
-   
 
 ## Installation
 
@@ -55,16 +45,38 @@ python manage.py runserver
 ```
 
 
+## Languages and Tools Used:
+
+<p align="left">
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+    </a>
+    <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
+    </a>
+    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+    </a>
+    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+    </a>
+    <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+    </a>
+</p>
+
+
 ## Contributing
 
-Contributions are welcome! Please read `CONTRIBUTING.md` for details on how to contribute to this project.
+Pull requests are welcome. For major changes, please open an issue first
+to discuss what you would like to change.
 
 
 ## License
 
-This project is licensed under the `MIT License`.
+This project is **free to use** and does not contain any license.
 
 
 ## Contact
 
-...
+If you want to contact me you can reach me at [LinkedIn](https://linkedin.com/in/neo-titebe-120536254) or [Instagram](https://instagram.com/9teen_99).
