@@ -6,12 +6,11 @@
 ![GitHub forks](https://img.shields.io/github/forks/UmbrellaSkiies/YT2MP3?style=social)
 ![GitHub followers](https://img.shields.io/github/followers/UmbrellaSkiies?label=Followers&logoColor=blue&style=flat)
 
-Convert video files to highest quality MP3 or download as MP4 in a single click, and get the video details.
+Convert video files to the highest quality MP3 or download as MP4 in a single click, and get the video details.
+
 
 
 ## Contents
-- [YT2MP3](#yt2mp3)
-  - [Contents](#contents)
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
   - [Usage](#usage)
